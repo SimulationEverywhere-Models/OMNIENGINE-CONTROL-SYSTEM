@@ -1,0 +1,6 @@
+00:00:10:00 create_capture 1
+00:00:30:00 start_capture 2
+00:00:50:00 stop_capture 3
+00:00:60:00 create_capture 1
+00:00:90:00 start_capture 2
+00:00:120:00 stop_capture 3
